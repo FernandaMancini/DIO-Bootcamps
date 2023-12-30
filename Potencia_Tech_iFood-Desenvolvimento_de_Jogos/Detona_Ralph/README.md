@@ -3,11 +3,17 @@
 Desafio de Código da DIO
 ---
 -Jogo baseado no filme Detona Ralph, aonde o objetivo é acertar o Ralph na janela que ele aparecer, ao longo do projeto vamos explorar eventos Javascript e manipular áudios no browser.
+
 *-Tecnologias Utilizadas:* HTML, CSS e Javascript
+
 ## Melhorias Criadas
+
 -Responsividade;
+
 -Adicionando Audios para game-over e quando errar;
+
 -Adicionando Vidas Funcionais caso o jogador erre o quadrado que está o Ralph, e caso erre três vezes aparece um alert de game-over:
+
 '''
 //... Parte de código
 else {
