@@ -2,7 +2,7 @@
 
 Desafio de Código da DIO
 ---
-Jogo baseado no filme Detona Ralph, onde o objetivo é acertar o Ralph na janela que ele aparecer. Ao longo do projeto, vamos explorar eventos Javascript e manipular áudios no browser.
+Jogo baseado no filme Detona Ralph, onde o objetivo é acertar o Ralph na janela que ele aparecer. Ao longo do projeto, e que explora eventos Javascript e manipula áudios no browser.
 
 - **Tecnologias Utilizadas:** HTML, CSS e Javascript
 
