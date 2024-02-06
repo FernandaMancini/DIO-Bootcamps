@@ -3,7 +3,7 @@
 - Dentro dos Recursos de Processamento de Imagens do Azure, é possivel ver dentro do Visual Studio a opção **"Add captions to imagens"**
 - Nele coloquei uma foto minha e a IA fez a descrição da imagem:
 <br>
-![Foto](output/Detectando_Rosto.png)
+![Foto](./output/Detectando_Rosto.png)
 
 > Esse recurso de IA possibilita que deficientes visuais saibam o que está presente na foto ou vídeo, tornando o ambiente mais inclusivo!
 
