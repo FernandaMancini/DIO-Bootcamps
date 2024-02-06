@@ -10,7 +10,7 @@
 - Além disso, também no Visual Studio, tem a opção **Extract text from images**"
 - Nele, eu escrevi um texto simples de exemplo, fiz questão de escrever feio para ver como a IA iria interpretar:
 <br>
-![Texto](LAB02/output/Detectando_Texto.png)
+ <img src= "https://github.com/FernandaMancini/Estudos-DIO/blob/main/Microsoft_Azure_AI_Fundamentals/Laboratorios/LAB02/output/Detectando_Texto.png"/>
 
 > Me surpreendeu bastante o fato que a IA conseguiu entender a minha letra, nem alguns humanos entendem ela 😂
 
