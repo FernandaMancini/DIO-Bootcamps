@@ -1,4 +1,8 @@
-# <div style="display: flex; align-items: center;"><img width="60px" src="https://hermes.dio.me/lab_projects/badges/dc92e499-6ec6-4c82-af3f-00c40538ca80.png"> Análise de Sentimentos com Language Studio</div>
+<h1>
+     <img align="center" width="60px" src="https://hermes.dio.me/lab_projects/badges/dc92e499-6ec6-4c82-af3f-00c40538ca80.png">
+    <span> 
+Análise de Sentimentos com Language Studio </span>
+</h1>
 
 - Dentro do Azure é possivel acessar no Language Studio, nela é possivel usar os recursos de processamento de linguagem natural (PNL), como extrair palavras-chave, compreender linguagem, responder perguntas, analisar sentimentos, etc. 
 
