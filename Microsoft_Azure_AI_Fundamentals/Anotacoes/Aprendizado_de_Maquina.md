@@ -1,4 +1,9 @@
-# Fundamentos do Aprendizado de Máquina
+<h1>
+     <img align="center" width="60px" src="https://hermes.dio.me/courses/badge/3ba1d337-ed1b-449c-bcf2-7863afcb9c7c.png">
+    <span> 
+Fundamentos do Aprendizado de Máquina </span>
+</h1>
+
 - Interseção de duas disciplinas: ciência de dados e engenharia de software
 - **Objetivo:** Utilizar dados para criar um modelo preditivo
 - **Exemplos:**
