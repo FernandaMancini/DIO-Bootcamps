@@ -2,7 +2,8 @@
  ## Imagens como matrizes de pixel
 - Para um computador, uma imagem é uma matriz de valores numéricos de pixel
 <br><br>
-![Visão de uma imagem por um computador](pixels.png)
+![pixels](https://github.com/FernandaMancini/Estudos-DIO/assets/108295414/4420571b-4a90-4056-9c45-ce99f2595a97)
+
 - Cada pixel tem um valor entre 0 (preto) e 255 (branco); 
 - **Imagem Bidimensional:** Uma única camada de valores de pixel como esta representa uma imagem em escala de cinza
 - **Imagem Multidimensionais:** Consistem em três camadas que representam tons de cor vermelho, verde e azul (RGB)
