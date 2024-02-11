@@ -1,8 +1,14 @@
- # Processamento de Imagem
+<h1>
+     <img align="center" width="60px" src="https://hermes.dio.me/courses/badge/d048dd15-f905-4563-b6c1-a714ffb34118.png">
+    <span> 
+Processamento de Imagem </span>
+</h1>
+
  ## Imagens como matrizes de pixel
 - Para um computador, uma imagem é uma matriz de valores numéricos de pixel
 <br><br>
-![Visão de uma imagem por um computador](pixels.png)
+![pixels](https://github.com/FernandaMancini/Estudos-DIO/assets/108295414/4420571b-4a90-4056-9c45-ce99f2595a97)
+
 - Cada pixel tem um valor entre 0 (preto) e 255 (branco); 
 - **Imagem Bidimensional:** Uma única camada de valores de pixel como esta representa uma imagem em escala de cinza
 - **Imagem Multidimensionais:** Consistem em três camadas que representam tons de cor vermelho, verde e azul (RGB)

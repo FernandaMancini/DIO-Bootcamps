@@ -1,4 +1,9 @@
-# Aprendizado Profundo
+<h1>
+     <img align="center" width="60px" src="https://hermes.dio.me/courses/badge/3ba1d337-ed1b-449c-bcf2-7863afcb9c7c.png">
+    <span> 
+Aprendizado Profundo</span>
+</h1>
+
 -  Forma avançada de aprendizado de máquina que tenta emular a maneira como o cérebro humano aprende;
 - Criação de uma **rede neural artificial** que simula a atividade eletroquímica em neurônios biológicos utilizando funções matemáticas;
 

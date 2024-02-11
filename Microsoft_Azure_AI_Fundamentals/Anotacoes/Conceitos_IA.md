@@ -1,4 +1,8 @@
-# AI - 900: Conceitos Básicos de IA do Azure
+<h1>
+     <img align="center" width="60px" src="https://hermes.dio.me/courses/badge/db3b002b-5d46-46fe-8ee6-409452b11863.png">
+    <span> 
+         AI - 900: Conceitos Básicos de IA do Azure </span>
+</h1>
 
 ## O que é inteligência Artificial?
 - Em termos simples, IA é um software que imita comportamentos e funcionalidades humanas
