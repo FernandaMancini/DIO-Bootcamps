@@ -53,8 +53,6 @@
 
 ![Como funciona](https://learn.microsoft.com/en-us/training/wwl-data-ai/analyze-text-with-text-analytics-service/media/example-embeddings-graph.png)
 
-![Linguagem Natural](https://learn.microsoft.com/en-us/training/wwl-data-ai/analyze-text-with-text-analytics-service/media/example-embeddings-graph.png)
-
 - As tarefas comuns de PNL suportadas por modelos de linguagem incluem:
 
 - Análise de texto, como extração de termos-chave ou identificação de entidades nomeadas no texto.
