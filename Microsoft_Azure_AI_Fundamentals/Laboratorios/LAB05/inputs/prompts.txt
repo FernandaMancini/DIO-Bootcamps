@@ -1,0 +1,9 @@
+Prompts usados no Laborátorio:
+
+1 - Quais são os três prós e contras de viajar no inverno?
+2 - Fale mais três pros. 
+3 - Quais são os três lugares onde posso ir para encontrar menos multidões?
+4 - Faça um imagem de um elefante rosa usando uma bermuda azul fazendo malabarismo em cima de uma nuvem.
+5 - Um robô comendo spaghetii
+6 - Um robô comendo spaghetii no estilo Rembrandt
+7 - Use Python para criar uma lista
