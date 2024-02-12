@@ -55,5 +55,3 @@ Azure AI Services
 
 - Ao utilizar o índice do Azure AI Search, percebi que é possível extrair insights valiosos das avaliações dos clientes, possibilitando decisões mais informadas e estratégias de negócios mais alinhadas com as necessidades do mercado. A IA se revelou uma ferramenta fundamental para a analise de dados e tomadas de decisão. 
 
-- Ao utilizar o índice do Azure AI Search, percebi que é possível extrair insights valiosos das avaliações dos clientes, possibilitando decisões mais informadas e estratégias de negócios mais alinhadas com as necessidades do mercado. A IA se revelou uma ferramenta fundamental para a analise de dados e tomadas de decisão. 
-
