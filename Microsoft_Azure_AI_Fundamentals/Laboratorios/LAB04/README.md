@@ -53,8 +53,7 @@ Azure AI Services
 
 ![Final](https://github.com/FernandaMancini/Estudos-DIO/assets/108295414/aab1e95e-2cc7-4c7f-98ce-9a32ac167242)
 
-<<<<<<< HEAD
 - Ao utilizar o índice do Azure AI Search, percebi que é possível extrair insights valiosos das avaliações dos clientes, possibilitando decisões mais informadas e estratégias de negócios mais alinhadas com as necessidades do mercado. A IA se revelou uma ferramenta fundamental para a analise de dados e tomadas de decisão. 
-=======
+
 - Ao utilizar o índice do Azure AI Search, percebi que é possível extrair insights valiosos das avaliações dos clientes, possibilitando decisões mais informadas e estratégias de negócios mais alinhadas com as necessidades do mercado. A IA se revelou uma ferramenta fundamental para a analise de dados e tomadas de decisão. 
->>>>>>> 24149a7844c0f9ecc52025140d38440a0aeedd5d
+
