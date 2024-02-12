@@ -43,7 +43,7 @@
 - As camadas de ateção examinam cada token por vez e determinam valores incorporados que refletem os relacionamentos semânticos entre os tokens. 
 - No, decodificador, essas relações são usadas para prever a sequência mais provável de tokens
 
-![Codificação e Decodificação](codfedecodf.png)
+![codfedecodf](https://github.com/FernandaMancini/Estudos-DIO/assets/108295414/c0b9c909-a922-4ea3-894c-90a00ae08e02)
 
 ## Tokenização
 - A primeira etapa no treinamento de um modelo de transformador é decompor o texto de treinamento em tokens
